@@ -1,0 +1,12 @@
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+testgit\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+testgit\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+testgit\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+testgit\list.o: ../Inc/FreeRTOSConfig.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+testgit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

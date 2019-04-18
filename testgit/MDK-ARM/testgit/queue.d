@@ -1,0 +1,15 @@
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+testgit\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+testgit\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+testgit\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+testgit\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+testgit\queue.o: ../Inc/FreeRTOSConfig.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+testgit\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
